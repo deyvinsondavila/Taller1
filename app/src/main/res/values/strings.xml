@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">taller1</string>
     <string name="calculadora">Calculadora de Presupuesto</string>
-    <string name="hombre">Hombre</string>
+    <string name="hombre">hombre</string>
     <string name="cantidad">Cantidad</string>
     <string name="mujer">Mujer</string>
     <string name="sexo">Sexo</string>
@@ -28,7 +28,7 @@
         <item>@string/adidas</item>
         <item>@string/puma</item>
     </array>
-
+    <string name="hombre">h</string>
 
 
 </resources>
